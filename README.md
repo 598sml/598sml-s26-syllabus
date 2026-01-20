@@ -11,7 +11,7 @@
 ## Course links:
 * Syllabus (information): https://github.com/598sml/598sml-s26-syllabus
 * Syllabus through Colab: https://colab.research.google.com/github/598sml/598sml-s26-syllabus
-* Google classroom (assignments): https://classroom.github.com/classrooms/254953531-598sml-s26
+* Github classroom (assignments): https://classroom.github.com/classrooms/254953531-598sml-s26
 * Slack: https://598sml-f23.slack.com/
 
 ## Notes:
@@ -45,7 +45,7 @@ The course is project based, particularly the last half.  You will use `git`,
 `pytorch`, and `latex` to develop various examples and steps toward your final
 project.
 
-Assignments will be submitted on Google Classroom at  https://classroom.github.com/classrooms/254953531-598sml-s26
+Assignments will be submitted on Github Classroom at  https://classroom.github.com/classrooms/254953531-598sml-s26
 
 ## Grading
 
