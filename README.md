@@ -33,7 +33,7 @@ A rough outline of topics is as follows:
 
 ## Notes:
 
-- 2026-01-20: ./lectures/notes-20260126.pdf
+- 2026-01-20: [](./lectures/notes-20260126.pdf)
 
 ## Schedule:
 
