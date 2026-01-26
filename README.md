@@ -31,6 +31,19 @@ A rough outline of topics is as follows:
 * Multiscale architectures and training
 * Learning solvers
 
+## Jupyter notebooks:
+
+There are at least three options for notebooks:
+
+- Run locally:
+  - make a virtual environment: `python -m venv ~/.venv/598sml`
+  - activate it: `source ~/.venv/598sml/bin/activate`
+  - install PyTorch++: `pip install torch matplotlib scipy numpy`
+- iCRN @ NCSA, Illinois Computes:
+  - https://jupyter.ncsa.illinois.edu/
+- Google Collab
+  - https://colab.research.google.com/
+
 ## Notes:
 
 - 2026-01-20: [notes-20260126.pdf](./lectures/notes-20260126.pdf)
