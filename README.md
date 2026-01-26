@@ -14,12 +14,56 @@
 * Github classroom (assignments): https://classroom.github.com/classrooms/254953531-598sml-s26
 * Slack: https://598sml-f23.slack.com/
 
+## Topics:
+
+A rough outline of topics is as follows:
+
+* What is SciML?
+* Automatic Differentiation
+* Approximation Theory
+* SciML software
+* PINNs
+* PINN variants
+* DeepONets
+* Neural ODEs
+* Closure models
+* MPNNs/GNNs
+* Multiscale architectures and training
+* Learning solvers
+
 ## Notes:
-- 2026-01-20
+
+- 2026-01-20: ./lectures/notes-20260126.pdf
 
 ## Schedule:
 
-- Week 1
+- Week 1 (1/20): What is SciML
+- Week 1 (1/22): Automatic Differentiation 
+  - https://jmlr.org/papers/v18/17-468.html
+  - https://colah.github.io/posts/2015-08-Backprop/
+  - http://neuralnetworksanddeeplearning.com/chap2.html
+  - https://openreview.net/pdf?id=BJJsrmfCZ
+  - https://sidsite.com/posts/autodiff/
+  - https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
+  - https://www.machinelearningexpedition.com/automatic-differentiation-in-pytorch/
+- Week 2 (1/27):
+- Week 2 (1/29):
+- Week 3 (2/03):
+- Week 3 (2/05):
+- Week 4 (2/10):
+- Week 4 (2/12):
+- Week 5 (2/17):
+- Week 5 (2/19):
+- Week 6 (2/24):
+- Week 6 (2/26):
+- Week 7 (3/03):
+- Week 7 (3/05):
+- Week 8 (3/10):
+- Week 8 (3/12):
+- Week 9 (3/17):  Spring Break
+- Week 9 (3/19):  Spring Break
+- Week 10 (3/24): ...
+- Week 11 (3/26): ...
 
 ## Course blurb
 
