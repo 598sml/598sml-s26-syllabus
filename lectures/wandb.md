@@ -163,9 +163,9 @@ wandb sync /path/to/wandb/run-*
 
 ---
 
-## 7. Required local backups (mandatory)
+## 7. Local backups
 
-In addition to W&B, you **must** save locally:
+In addition to W&B, you should save locally:
 - `metrics.csv`
 - `config.yaml` or `config.json`
 - Git commit hash (in README or report)
@@ -178,20 +178,9 @@ These ensure reproducibility.
 
 For pair projects:
 - Either share a single W&B project
-- Or keep separate projects and link both in the report
+- Or keep separate projects and link to both
 
 No special permissions are required.
-
----
-
-## 9. What you submit
-
-- Link to your W&B project
-- Final report
-- GitHub repo containing:
-  - Code
-  - CSV metrics
-  - Config files
 
 ---
 
