@@ -51,6 +51,11 @@ There are at least three options for notebooks:
 ## Schedule:
 
 - Week 1 (1/20): What is SciML
+  - [DeepMind WeatherNext 2 paper](https://arxiv.org/pdf/2506.10772)
+  - [Neural GCMs paper](https://www.science.org/doi/10.1126/sciadv.adv6891)
+  - [Generative downscaling paper](https://www.pnas.org/doi/10.1073/pnas.2420288122)
+  - [Neural Helmhotlz inverse solver paper](https://academic.oup.com/gji/article/239/3/1469/7760394)
+  - [Surrogate modeling paper](https://gmd.copernicus.org/articles/18/3681/2025/)
 - Week 1 (1/22): Automatic Differentiation 
   - https://jmlr.org/papers/v18/17-468.html
   - https://colah.github.io/posts/2015-08-Backprop/
@@ -60,6 +65,7 @@ There are at least three options for notebooks:
   - https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
   - https://www.machinelearningexpedition.com/automatic-differentiation-in-pytorch/
 - Week 2 (1/27):
+  - [Weights & Biases (W&B) guide](./lectures/wandb.md)
 - Week 2 (1/29):
 - Week 3 (2/03):
 - Week 3 (2/05):
