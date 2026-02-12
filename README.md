@@ -48,7 +48,17 @@ There are at least three options for notebooks:
 
 - 2026-01-20: [notes-20260126.pdf](./lectures/notes-20260126.pdf)
 
-## Schedule:
+## Homeworks
+
+Homework | Topic | Due date | GitHub Classroom link
+--- | --- | --- | ---
+HW0 | Auto diff | Thu, Jan 22 | https://classroom.github.com/a/liziYDTZ
+HW1 | Numpy & Pytorch | Thu, Jan 29 | https://classroom.github.com/a/ZLiCOZ0s
+HW2 | Optimization | Thu, Feb 5 | https://classroom.github.com/a/Be2iQVoq
+HW3 | Function approx | Thu, Feb 12 | https://classroom.github.com/a/XYRjkVBi
+HW4 | PINNs | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
+
+## Lecture schedule:
 
 - Week 1 (1/20): What is SciML
   - [DeepMind WeatherNext 2 paper](https://arxiv.org/pdf/2506.10772)
