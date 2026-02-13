@@ -60,13 +60,14 @@ HW4 | PINNs | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
 
 ## Lecture schedule:
 
-- Week 1 (1/20): What is SciML
+- Week 1 (1/20)
+  - What is SciML
   - [DeepMind WeatherNext 2 paper](https://arxiv.org/pdf/2506.10772)
   - [Neural GCMs paper](https://www.science.org/doi/10.1126/sciadv.adv6891)
   - [Generative downscaling paper](https://www.pnas.org/doi/10.1073/pnas.2420288122)
   - [Neural Helmhotlz inverse solver paper](https://academic.oup.com/gji/article/239/3/1469/7760394)
   - [Surrogate modeling paper](https://gmd.copernicus.org/articles/18/3681/2025/)
-- Week 1 (1/22): Automatic Differentiation 
+  - Automatic Differentiation 
   - https://jmlr.org/papers/v18/17-468.html
   - https://colah.github.io/posts/2015-08-Backprop/
   - http://neuralnetworksanddeeplearning.com/chap2.html
@@ -75,22 +76,18 @@ HW4 | PINNs | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
   - https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
   - https://www.machinelearningexpedition.com/automatic-differentiation-in-pytorch/
 - Week 2 (1/27):
+  - Auto diff, [notes-20260210.pdf](./lectures/notes-20260210.pdf)
   - [Weights & Biases (W&B) guide](./lectures/wandb.md)
-- Week 2 (1/29):
 - Week 3 (2/03):
-- Week 3 (2/05):
+  - Function approximations
 - Week 4 (2/10):
-- Week 4 (2/12):
+  - Burgers, PINNS
+  - [notes-20260210.pdf](./lectures/notes-20260210.pdf)
 - Week 5 (2/17):
-- Week 5 (2/19):
 - Week 6 (2/24):
-- Week 6 (2/26):
 - Week 7 (3/03):
-- Week 7 (3/05):
 - Week 8 (3/10):
-- Week 8 (3/12):
 - Week 9 (3/17):  Spring Break
-- Week 9 (3/19):  Spring Break
 - Week 10 (3/24): ...
 - Week 11 (3/26): ...
 
