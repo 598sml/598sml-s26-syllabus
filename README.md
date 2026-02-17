@@ -56,7 +56,8 @@ HW0 | Auto diff | Thu, Jan 22 | https://classroom.github.com/a/liziYDTZ
 HW1 | Numpy & Pytorch | Thu, Jan 29 | https://classroom.github.com/a/ZLiCOZ0s
 HW2 | Optimization | Thu, Feb 5 | https://classroom.github.com/a/Be2iQVoq
 HW3 | Function approx | Thu, Feb 12 | https://classroom.github.com/a/XYRjkVBi
-HW4 | PINNs | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
+HW4 | PINNs Burgers | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
+HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
 
 ## Lecture schedule:
 
