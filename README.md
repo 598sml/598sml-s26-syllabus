@@ -85,6 +85,7 @@ HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
   - Burgers, PINNS
   - [notes-20260210.pdf](./lectures/notes-20260210.pdf)
 - Week 5 (2/17):
+  - [An Expert’s Guide to Training Physics-Informed Neural Networks](https://arxiv.org/abs/2308.08468) (Wang et al., 2023)
 - Week 6 (2/24):
 - Week 7 (3/03):
 - Week 8 (3/10):
