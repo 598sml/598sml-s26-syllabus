@@ -93,11 +93,25 @@ HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
   - Notebook: [DeepONets for the derivative operator](./lectures/20260224/deeponet-derivative.ipynb)
   - DeepONet paper ([DOI:10.1038/s42256-021-00302-5](https://doi.org/10.1038/s42256-021-00302-5) or [arXiv:1910.03193](https://arxiv.org/abs/1910.03193))
   - Fourier Neural Operator paper ([ICLR 2021](https://openreview.net/forum?id=c8P9NQVtmnO) or [arXiv:2010.08895](https://arxiv.org/abs/2010.08895))
-- Week 7 (3/03):
-- Week 8 (3/10):
+- Week 7 (3/03 Tu): prj00
+- Week 7 (3/05 Th): ...
+- Week 8 (3/10 Tu): prj01
+- Week 8 (3/12 Th): ....
 - Week 9 (3/17):  Spring Break
-- Week 10 (3/24): ...
-- Week 11 (3/26): ...
+- Tentative:
+- Week 10 (3/24 Tu): prj02
+- Week 10 (3/26 Th): ...
+- Week 11 (3/31 Tu): prj03
+- Week 11 (4/02 Th): ...
+- Week 12 (4/07 Tu): prj04
+- Week 12 (4/09 Th): ...
+- Week 13 (4/14 Tu): prj05
+- Week 13 (4/16 Th): ...
+- Week 14 (4/21 Tu): prj06
+- Week 14 (4/23 Th): ...
+- Week 15 (4/28 Tu): Presentations (01-10 @ 7 min) (prj07 due)
+- Week 15 (4/30 Th): Presentations (11-20 @ 7 min)
+- Week 16 (5/05 Tu): Presentations (21-30 @ 7 min)
 
 ## Course blurb
 
