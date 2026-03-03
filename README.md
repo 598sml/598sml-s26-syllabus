@@ -113,6 +113,47 @@ HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
 - Week 15 (4/30 Th): Presentations (11-20 @ 7 min)
 - Week 16 (5/05 Tu): Presentations (21-30 @ 7 min)
 
+## Projects
+
+
+### Goals
+
+The goal of the project is to undertake a deep dive into a specific aspect of
+SciML in a direction that we have not fully covered in class.  The project must
+be in SciML (for example we are not interested in generic LLMs or image
+training etc) --- most often there should be a PDE or ODE or numerical
+method/model driving the core exploration.
+
+HPC, Physics, UQ, error estimation, PINN variants, turbulence, use of
+transformers, GNNs, etc are all good topics.  You may (and should!) connect this
+with your own research if you can.
+
+### Guidelines
+
+The project can be done in solo or in pairs.  If done in pairs, then you are
+agreeing to equal effort on coding, writing, and presenting.
+
+There will be regular updates (see below).  Be prepared to present updates!
+
+A presentation will serve as the final.  The length will depend on the number of groups
+but expect something in the 5-10 minute range with a specific format.
+
+### Steps
+
+- prj00: selecting a topic
+  - Short project description
+  - Peer feedback
+- prj01: description of the topic with steps
+  - 0.5-1 page of details include steps
+- prj02: goals and workflow
+  - Identify short, medium, and stretch goals
+  - Outline "workflow"
+- prj03: setup and initial results
+- prj04: summarize model, loss, training
+- prj05: peer feedback
+- prj06: slides draft (1-3, specific format)
+- prj07: final slides (due before first presentation)
+
 ## Course blurb
 
 Familiarity with introductory numerical methods (e.g., CS 357 or TAM 470) and
