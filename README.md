@@ -141,6 +141,8 @@ but expect something in the 5-10 minute range with a specific format.
 ### Steps
 
 - prj00: selecting a topic
+  - `598sml/prj_topicname`
+  - example: `598sml/prj_cpinn_convergence`
   - Short project description
   - Peer feedback
 - prj01: description of the topic with steps
