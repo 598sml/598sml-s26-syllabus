@@ -92,9 +92,12 @@ HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
   - [notes-20260224-deeponets.pdf](./lectures/20260224/notes-20260224-deeponets.pdf)
   - Notebook: [DeepONets for the derivative operator](./lectures/20260224/deeponet-derivative.ipynb)
   - DeepONet paper ([DOI:10.1038/s42256-021-00302-5](https://doi.org/10.1038/s42256-021-00302-5) or [arXiv:1910.03193](https://arxiv.org/abs/1910.03193))
+- Week 7 (3/03 Tu):
+  - prj00
+- Week 7 (3/05 Th):
+  - Fourier Neural Operators (FNOs)
+  - Notebook: [FNO for Poisson 1D](./lectures/20260305/FNO_Poisson1D_demo.ipynb)
   - Fourier Neural Operator paper ([ICLR 2021](https://openreview.net/forum?id=c8P9NQVtmnO) or [arXiv:2010.08895](https://arxiv.org/abs/2010.08895))
-- Week 7 (3/03 Tu): prj00
-- Week 7 (3/05 Th): ...
 - Week 8 (3/10 Tu): prj01
 - Week 8 (3/12 Th): ....
 - Week 9 (3/17):  Spring Break
