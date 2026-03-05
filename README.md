@@ -98,6 +98,7 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
   - prj00
 - Week 7 (3/05 Th):
   - Fourier Neural Operators (FNOs)
+  - [notes-20260305-fourier-neural-operators.pdf](./lectures/notes-20260305-fourier-neural-operators.pdf)
   - Notebook: [FNO for Poisson 1D](./lectures/20260305/FNO_Poisson1D_demo.ipynb)
   - Fourier Neural Operator paper ([ICLR 2021](https://openreview.net/forum?id=c8P9NQVtmnO) or [arXiv:2010.08895](https://arxiv.org/abs/2010.08895))
 - Week 8 (3/10 Tu): prj01
