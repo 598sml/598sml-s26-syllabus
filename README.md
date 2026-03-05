@@ -58,6 +58,8 @@ HW2 | Optimization | Thu, Feb 5 | https://classroom.github.com/a/Be2iQVoq
 HW3 | Function approx | Thu, Feb 12 | https://classroom.github.com/a/XYRjkVBi
 HW4 | PINNs Burgers | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
 HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
+HW6 | DeepONets | Thu, Mar 5 | https://classroom.github.com/a/ECboR7qr
+HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 
 ## Lecture schedule:
 
