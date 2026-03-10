@@ -58,6 +58,8 @@ HW2 | Optimization | Thu, Feb 5 | https://classroom.github.com/a/Be2iQVoq
 HW3 | Function approx | Thu, Feb 12 | https://classroom.github.com/a/XYRjkVBi
 HW4 | PINNs Burgers | Thu, Feb 19 | https://classroom.github.com/a/ZERchO3Y
 HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
+HW6 | DeepONets | Thu, Mar 5 | https://classroom.github.com/a/ECboR7qr
+HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 
 ## Lecture schedule:
 
@@ -92,9 +94,13 @@ HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
   - [notes-20260224-deeponets.pdf](./lectures/20260224/notes-20260224-deeponets.pdf)
   - Notebook: [DeepONets for the derivative operator](./lectures/20260224/deeponet-derivative.ipynb)
   - DeepONet paper ([DOI:10.1038/s42256-021-00302-5](https://doi.org/10.1038/s42256-021-00302-5) or [arXiv:1910.03193](https://arxiv.org/abs/1910.03193))
+- Week 7 (3/03 Tu):
+  - prj00
+- Week 7 (3/05 Th):
+  - Fourier Neural Operators (FNOs)
+  - [notes-20260305-fourier-neural-operators.pdf](./lectures/notes-20260305-fourier-neural-operators.pdf)
+  - Notebook: [FNO for Poisson 1D](./lectures/20260305/FNO_Poisson1D_demo.ipynb)
   - Fourier Neural Operator paper ([ICLR 2021](https://openreview.net/forum?id=c8P9NQVtmnO) or [arXiv:2010.08895](https://arxiv.org/abs/2010.08895))
-- Week 7 (3/03 Tu): prj00
-- Week 7 (3/05 Th): ...
 - Week 8 (3/10 Tu): prj01
   - https://github.com/598sml/prj01
 - Week 8 (3/12 Th): ....
