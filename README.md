@@ -96,10 +96,11 @@ HW5 | PINNs Poisson | Tue, Feb 24 | https://classroom.github.com/a/BT--GbtI
 - Week 7 (3/03 Tu): prj00
 - Week 7 (3/05 Th): ...
 - Week 8 (3/10 Tu): prj01
+  - https://github.com/598sml/prj01
 - Week 8 (3/12 Th): ....
 - Week 9 (3/17):  Spring Break
 - Tentative:
-- Week 10 (3/24 Tu): prj02
+- Week 10 (3/24 Tu): prj02 (due)
 - Week 10 (3/26 Th): ...
 - Week 11 (3/31 Tu): prj03
 - Week 11 (4/02 Th): ...
@@ -149,7 +150,7 @@ but expect something in the 5-10 minute range with a specific format.
   - 0.5-1 page of details include steps
 - prj02: goals and workflow
   - Identify short, medium, and stretch goals
-  - Outline "workflow"
+  - Outline
 - prj03: setup and initial results
 - prj04: summarize model, loss, training
 - prj05: peer feedback
