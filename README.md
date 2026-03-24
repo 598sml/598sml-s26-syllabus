@@ -120,10 +120,10 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 - Week 13 (4/14 Tu): prj05
 - Week 13 (4/16 Th): ...
 - Week 14 (4/21 Tu): prj06
-- Week 14 (4/23 Th): Presentations (01-06 @ 12 min) (prj07 due)
-- Week 15 (4/28 Tu): Presentations (07-12 @ 12 min)
-- Week 15 (4/30 Th): Presentations (13-18 @ 12 min)
-- Week 16 (5/05 Tu): Presentations (19-24 @ 12 min)
+- Week 14 (4/23 Th): Presentations (01-06 @ 10+2=12 min) (prj07 due)
+- Week 15 (4/28 Tu): Presentations (07-12 @ 10+2=12 min)
+- Week 15 (4/30 Th): Presentations (13-18 @ 10+2=12 min)
+- Week 16 (5/05 Tu): Presentations (19-24 @ 10+2=12 min)
 
 ## Projects
 
