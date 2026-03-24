@@ -103,7 +103,11 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
   - Fourier Neural Operator paper ([ICLR 2021](https://openreview.net/forum?id=c8P9NQVtmnO) or [arXiv:2010.08895](https://arxiv.org/abs/2010.08895))
 - Week 8 (3/10 Tu): prj01
   - https://github.com/598sml/prj01
-- Week 8 (3/12 Th): ....
+- Week 8 (3/12 Th):
+  - Neural ODEs
+  - [notes-20260312-neural-odes.pdf](./lectures/notes-20260312-neural-odes.pdf)
+  - Notebook: [Neural ODEs for the pendulum](./lectures/20260312/pendulum_neural_ode_demo.ipynb)
+  - Neural ODE paper ([NeurIPS 2018](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf) or [arXiv:1806.07366](https://arxiv.org/abs/1806.07366))
 - Week 9 (3/17):  Spring Break
 - Tentative:
 - Week 10 (3/24 Tu): prj02 (due)
