@@ -107,6 +107,7 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 - Week 9 (3/17):  Spring Break
 - Tentative:
 - Week 10 (3/24 Tu): prj02 (due)
+  - https://github.com/598sml/prj02
 - Week 10 (3/26 Th): ...
 - Week 11 (3/31 Tu): prj03
 - Week 11 (4/02 Th): ...
