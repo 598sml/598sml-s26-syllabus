@@ -113,7 +113,7 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 - Week 10 (3/24 Tu): `prj02` (due)
   - https://github.com/598sml/prj02
 - Week 10 (3/26 Th):
-  - ./demos/gaussian_process_tutorial.ipynb
+  - [./demos/gaussian_process_tutorial.ipynb](./demos/gaussian_process_tutorial.ipynb)
 - Week 11 (3/31 Tu): `prj03`
   - Instructions: prepare 1 slide summarizing your current progress. Save as pdf.  Place in your project repo in a `prj03` directory.
 - Week 11 (4/02 Th): GNNs
