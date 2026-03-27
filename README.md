@@ -95,13 +95,13 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
   - Notebook: [DeepONets for the derivative operator](./lectures/20260224/deeponet-derivative.ipynb)
   - DeepONet paper ([DOI:10.1038/s42256-021-00302-5](https://doi.org/10.1038/s42256-021-00302-5) or [arXiv:1910.03193](https://arxiv.org/abs/1910.03193))
 - Week 7 (3/03 Tu):
-  - prj00
+  - `prj00`
 - Week 7 (3/05 Th):
   - Fourier Neural Operators (FNOs)
   - [notes-20260305-fourier-neural-operators.pdf](./lectures/notes-20260305-fourier-neural-operators.pdf)
   - Notebook: [FNO for Poisson 1D](./lectures/20260305/FNO_Poisson1D_demo.ipynb)
   - Fourier Neural Operator paper ([ICLR 2021](https://openreview.net/forum?id=c8P9NQVtmnO) or [arXiv:2010.08895](https://arxiv.org/abs/2010.08895))
-- Week 8 (3/10 Tu): prj01
+- Week 8 (3/10 Tu): `prj01`
   - https://github.com/598sml/prj01
 - Week 8 (3/12 Th):
   - Neural ODEs
@@ -110,16 +110,18 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
   - Neural ODE paper ([NeurIPS 2018](https://proceedings.neurips.cc/paper_files/paper/2018/file/69386f6bb1dfed68692a24c8686939b9-Paper.pdf) or [arXiv:1806.07366](https://arxiv.org/abs/1806.07366))
 - Week 9 (3/17):  Spring Break
 - Tentative:
-- Week 10 (3/24 Tu): prj02 (due)
+- Week 10 (3/24 Tu): `prj02` (due)
   - https://github.com/598sml/prj02
-- Week 10 (3/26 Th): ...
-- Week 11 (3/31 Tu): prj03
-- Week 11 (4/02 Th): ...
-- Week 12 (4/07 Tu): prj04
-- Week 12 (4/09 Th): ...
-- Week 13 (4/14 Tu): prj05
-- Week 13 (4/16 Th): ...
-- Week 14 (4/21 Tu): prj06
+- Week 10 (3/26 Th):
+  - ./demos/gaussian_process_tutorial.ipynb
+- Week 11 (3/31 Tu): `prj03`
+  - Instructions: prepare 1 slide summarizing your current progress. Save as pdf.  Place in your project repo in a `prj03` directory.
+- Week 11 (4/02 Th): GNNs
+- Week 12 (4/07 Tu): `prj04`
+- Week 12 (4/09 Th): Transformers
+- Week 13 (4/14 Tu): `prj05`
+- Week 13 (4/16 Th): Closures
+- Week 14 (4/21 Tu): `prj06`
 - Week 14 (4/23 Th): Presentations (01-06 @ 10+2=12 min) (prj07 due)
 - Week 15 (4/28 Tu): Presentations (07-12 @ 10+2=12 min)
 - Week 15 (4/30 Th): Presentations (13-18 @ 10+2=12 min)
