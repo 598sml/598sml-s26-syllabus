@@ -116,6 +116,7 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
   - [./demos/gaussian_process_tutorial.ipynb](./demos/gaussian_process_tutorial.ipynb)
 - Week 11 (3/31 Tu): `prj03`
   - Instructions: prepare 1 slide summarizing your current progress. Save as pdf.  Place in your project repo in a `prj03` directory.
+  - Name the slide `result.pdf`: `prj_mytopic/prj03/result.pdf`
 - Week 11 (4/02 Th): GNNs
 - Week 12 (4/07 Tu): `prj04`
 - Week 12 (4/09 Th): Transformers
