@@ -121,6 +121,7 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 - Week 12 (4/07 Tu): `prj04`
 - Week 12 (4/09 Th): Transformers
 - Week 13 (4/14 Tu): `prj05`
+  - Instructions: https://github.com/598sml/prj05
 - Week 13 (4/16 Th): Closures
 - Week 14 (4/21 Tu): `prj06`
 - Week 14 (4/23 Th): Presentations (01-06 @ 10+2=12 min) (prj07 due)
