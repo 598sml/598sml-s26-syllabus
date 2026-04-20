@@ -123,8 +123,16 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 - Week 13 (4/14 Tu): `prj05`
   - Instructions: https://github.com/598sml/prj05
 - Week 13 (4/16 Th): Closures
+  - [./lectures/notes-20260416-closures.pdf](./lectures/notes-20260416-closures.pdf)
 - Week 14 (4/21 Tu): `prj06`
-- Week 14 (4/23 Th): Presentations (01-06 @ 10+2=12 min) (prj07 due)
+  - Instructions: https://github.com/598sml/prj06
+  - Check in 3 slides in `.pdf` format to the following location: `prj_mytitle/prj06/prj_mytitle.pdf`
+- Thursday 4/23 @ 8:00am final slides are due!  These should be check into the following
+  - `prj_mytitle/prj07/prj_mytitle.pdf` where `prj_mytitle` is your repository name.
+  - We will grab all of these according to the repository name in column E of the presentation sign-up sheet.
+  - `.pdf`, `.pptx`, and `.key` are acceptable formats.k
+  - note this goes in `prj07`!
+- Week 14 (4/23 Th): Presentations (01-06 @ 10+2=12 min)
 - Week 15 (4/28 Tu): Presentations (07-12 @ 10+2=12 min)
 - Week 15 (4/30 Th): Presentations (13-18 @ 10+2=12 min)
 - Week 16 (5/05 Tu): Presentations (19-24 @ 10+2=12 min)
