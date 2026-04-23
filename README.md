@@ -123,7 +123,11 @@ HW7 | FNOs | Thu, Mar 12 | https://classroom.github.com/a/QPgBQ6wg
 - Week 13 (4/14 Tu): `prj05`
   - Instructions: https://github.com/598sml/prj05
 - Week 13 (4/16 Th): Closures
-  - [./lectures/notes-20260416-closures.pdf](./lectures/notes-20260416-closures.pdf)
+  - [notes-20260416-closures.pdf](./lectures/notes-20260416-closures.pdf)
+  - [01_advection_priori.ipynb](./demos/01_advection_priori.ipynb)
+  - [02_burgers_priori.ipynb](./demos/02_burgers_priori.ipynb)
+  - [03_euler_shock_tube.ipynb](./demos/03_euler_shock_tube.ipynb)
+  - [04_shear_layer_les.ipynb](./demos/04_shear_layer_les.ipynb)
 - Week 14 (4/21 Tu): `prj06`
   - Instructions: https://github.com/598sml/prj06
   - Check in 3 slides in `.pdf` format to the following location: `prj_mytitle/prj06/prj_mytitle.pdf`
